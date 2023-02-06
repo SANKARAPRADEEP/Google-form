@@ -1,0 +1,120 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+/*body starts here*/
+body{
+    background-color: rgb(255, 242, 204);
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+/*image starts here*/
+img{
+    margin-left: 27%;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+/*ci*/
+.ci{
+    background-color: white;
+    width: 45%;
+    margin-left: 27%;
+    border-radius: 8px;
+}
+/*h3*/
+h3{
+    margin: 3px 5px;
+    padding-top: 12px;
+    padding-left: 2px;
+}
+/*h6*/
+h5{
+    margin:2px 5px;
+    padding-bottom: 15px;
+    padding-left: 2px;
+}
+/*name*/
+.name{
+    background-color: white;
+    width: 45%;
+    border-radius: 6px;
+    margin-left: 27%;
+    margin-top: 3px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+label{
+    margin: 3px 5px;
+    padding-bottom: 5px;
+}
+input{
+    width:60%;
+    margin: 3px 5px;
+    padding-top: 8px;
+    padding-bottom: 5px;
+    border: none;
+    border-bottom: 1px solid gray;
+}
+input:focus{
+    border: none;
+}
+sup{
+ color: red;
+}
+/*email*/
+.email{
+    background-color: white;
+    width: 45%;
+    border-radius: 6px;
+    margin-left: 27%;
+    margin-top: 3px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+/*moble number*/
+.phnum{
+    background-color: white;
+    width: 45%;
+    border-radius: 6px;
+    margin-left: 27%;
+    margin-top: 3px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+/*address*/
+.address{
+    background-color: white;
+    width: 45%;
+    border-radius: 6px;
+    margin-left: 27%;
+    margin-top: 3px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+/*comments*/
+.comment{
+    background-color: white;
+    width: 45%;
+    border-radius: 6px;
+    margin-left: 27%;
+    margin-top: 3px;
+    padding-top: 12px;
+    padding-bottom: 5px;
+}
+/*button*/
+button{
+    background-color: rgb(255, 196, 0);
+    border-radius: 5px;
+    letter-spacing: 3px;
+    margin-left: 46%;
+    margin-top: 3px;
+    padding-top: 5px;
+    padding-bottom: 2px;
+}
+button:hover{
+    background-color: rgb(70, 236, 70);
+}
+
